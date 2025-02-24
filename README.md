@@ -44,13 +44,10 @@ python PyBundle.py <project_directory> <entry_file> <output_file> [-d]
 
 <project_directory>: The directory containing your Python project.
 
-<entry_file>: The entry point of your application (e.g., __main__.py).
-
-<output_file>: The path for the bundled output file.
-
--d (optional): Enables debug mode for verbose logging.
-
-Execute the Bundled File:
+- <entry_file>: The entry point of your application (e.g., __main__.py).
+- <output_file>: The path for the bundled output file.
+- -d (optional): Enables debug mode for verbose logging.
+- Execute the Bundled File:
 
 ```bash
 python <output_file>
