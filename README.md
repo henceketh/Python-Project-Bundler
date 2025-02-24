@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Python Module Bundler is a command-line utility designed to bundle a multi-module Python project into a single file. It scans your project directory, detects Python modules, analyzes their dependencies, and produces a single output file with all the code concatenated in the correct dependency order.
+The Python Project Bundler is a command-line utility designed to bundle a multi-module Python project into a single file. It scans your project directory, detects Python modules, analyzes their dependencies, and produces a single output file with all the code concatenated in the correct dependency order.
 
 This tool is especially useful for:
 
